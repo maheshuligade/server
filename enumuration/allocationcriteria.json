@@ -1,0 +1,6 @@
+{
+	"AllocationCriteria": {
+		"LEAST_PRICE": "leastPrice",
+		"BEST_EXECUTION": "bestExecution"
+	}
+}
